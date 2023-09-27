@@ -505,7 +505,7 @@ button {
 .image_4{
     width: 95%;
     float: left;
-    background-color: #000;
+    background-color: #0000001b;
     height: auto;
     text-align: center;
     padding: 40px 0px;
@@ -513,7 +513,7 @@ button {
 .image_5{
     width: 100%;
     float: left;
-    background-color: #000;
+    background-color: #0000001b;
     height: auto;
     text-align: center;
     padding: 50px 40px;
