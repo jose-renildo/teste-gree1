@@ -461,6 +461,20 @@ button {
 /* about section end */
 /* blog section start */
 
+.infolev{
+    display: block;
+    margin: auto;
+}
+
+.img_modern_left{
+display: inline-block;
+
+}
+
+.img_modern_right{
+    display: inline-block;
+    margin-left: -400px;
+}
 
 .blog_section{
     width: 100%;
@@ -521,7 +535,7 @@ button {
 }
 .laptop_text {
     width: 100%;
-    float: left;
+    float: left; 
     font-size: 30px;
     color: #2a2929;
     text-transform: uppercase;
