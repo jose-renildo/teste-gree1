@@ -467,6 +467,19 @@ button {
     margin-top: -50px;
 }
 
+section{
+    margin-top: 40px;
+    column-count: 4;
+    column-gap: 5px;
+}
+
+section > .imgs_blog{
+    width: 80%;
+    margin: 20px;
+}
+
+
+
 .img_modern_left{
 display: inline-block;
 
