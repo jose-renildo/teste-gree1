@@ -104,6 +104,18 @@
         margin-bottom: 25px;
     }
 
+    /* CRIAÇÃO E ALTERAÇÃO NA GALERIA DE FOTOS DO BLOG*/
+    section{
+        margin-top: 40px;
+        column-count: 2;
+        column-gap: 5px;
+    }
+    
+    section > .imgs_blog{
+        width: 80%;
+        margin: 20px;
+    }
+
 }
 
 /*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
