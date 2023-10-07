@@ -2,7 +2,7 @@
     
     $nome = $_POST["nome"];
     $email = $_POST["email"];
-    $email = $_POST["telefone"];
+    $telefone = $_POST["telefone"];
     //$para = $_POST["para"];
     $para = "jrot1973@hotmail.com";
     
