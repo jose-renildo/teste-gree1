@@ -2,14 +2,13 @@
     
     $nome = $_POST["nome"];
     $email = $_POST["email"];
-    $telefone = $_POST["telefone"];
+	$telefone = $_POST["telefone"];
     //$para = $_POST["para"];
-    $para = "jrot1973@hotmail.com";
+    $para = "jroterto@gmail.com";
     
     
-    $msg = "Enviado por: ".$nome. " - ". $email ." ".$telefone. "\nMensagem: " .$_POST["msg"];
-    
-    $assunto = "Mensagem enviada através do site - ".$_POST["assunto"];
+     $msg = "Enviado por: ".$nome. "\nEmail:". $email . "\nTelefone:".$telefone. "\nMensagem: " .$_POST["msg"];
+    $assunto = "Mensagem enviada através do site - GRINVERT ELEVADORES".$_POST["assunto"];
     
     
     //PADRÃO DE EMAIL ---- CTRL C + CTRL V
@@ -27,8 +26,9 @@
 ?>
 <br />
 <br />
- 	
-  <br />
- <span style="padding-left:150px">  <img src="images/img_obrigado_pelo_contato.jpg"  /> </span><br /><br /><br />
+ 	<br />
+ <span style="padding-left:150px">  <img src="images/img_obrigado_pelo_contato.jpg" /> </span><br /><br /><br />
  
-<span style="padding-left:600px"> <a href="http://www.grinvert.com.br"><font size="+2">Voltar</a></font> </span>
+<span style="padding-left:600px"> <a href="http://teste.paginasmeriti.com.br"><font size="+4">Voltar</a></font> </span>
+    
+    
