@@ -682,7 +682,20 @@ display: inline-block;
 .send_bt {
     width: 170px;
     margin: 0 auto;
+    margin-top: 25px;
     text-align: center;
+    border: none;
+.bt{
+    min-width: auto;
+    width: 100px;
+    background-color: #009843;
+    color: #fff;
+}
+
+.bt:hover{
+    background-color: #e41919;
+}
+
 }
 .send_bt a {
     width: 100%;
